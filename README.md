@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mihai053
-- 👀 I’m interested in JavaScript, ReactJS, NodeJS
+- 👀 I’m interested in JavaScript, ReactJS, NodeJS, CSS and HTML
 - 🌱 I’m currently learning ReactJS, NextJS, Typescript
 - 📫 How to reach me: mihaipandele09@gmail.com
 
