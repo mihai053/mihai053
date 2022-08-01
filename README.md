@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mihai Pandele
 - 👀 I’m interested in JavaScript, ReactJS, NodeJS, CSS and HTML
-- 🌱 I’m currently learning ReactJS, NextJS, Typescript and Angular
+- 🌱 I’m currently learning  NextJS, Typescript
 - 📫 How to reach me: mihaipandele09@gmail.com
 
 <!---
