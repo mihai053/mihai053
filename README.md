@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Mihai Pandele
-- 👀 I’m interested in JavaScript, ReactJS, NodeJS, CSS and HTML
-- 🌱 I’m currently learning  NextJS, Typescript
+- 👋 Hi, I’m Mihai Pandele a Javascript Developer at NextUp Romania
+- 👀 I’m interested in JavaScript, Typescript, ReactJS, NodeJS, CSS and HTML
+- 🌱 I’m currently learning NextJS
 - 📫 How to reach me: mihaipandele09@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mihai-pandele-1305/
 
 <!---
 mihai053/mihai053 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
