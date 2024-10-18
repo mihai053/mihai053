@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mihai Pandele a Javascript Developer at NextUp Romania
+- 👋 Hi, I’m Mihai Pandele a Backend Developer at Eazy Insure
 - 👀 I’m interested in JavaScript, Typescript, ReactJS, NodeJS, CSS and HTML
 - 🌱 I’m currently learning NextJS
 - 📫 How to reach me: mihaipandele09@gmail.com
